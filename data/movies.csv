@@ -1,16 +1,16 @@
-title,year,rating,votes
-The Shawshank Redemption,1994,9.3,2343110
-The Godfather,1972,9.2,1620367
-The Dark Knight,2008,9.0,2330000
-12 Angry Men,1957,9.0,738000
-Schindler's List,1993,8.9,1267000
-The Lord of the Rings: The Return of the King,2003,8.9,1650000
-Pulp Fiction,1994,8.9,1864000
-The Good, the Bad and the Ugly,1966,8.8,730000
-Fight Club,1999,8.8,1846000
-Forrest Gump,1994,8.8,1970000
-Inception,2010,8.8,2300000
-The Lord of the Rings: The Fellowship of the Ring,2001,8.8,1700000
-Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1200000
-The Matrix,1999,8.7,1700000
-Goodfellas,1990,8.7,1100000
+"title","year","rating","votes"
+"The Shawshank Redemption","1994","9.3","2343110"
+"The Godfather","1972","9.2","1620367"
+"The Dark Knight","2008","9.0","2330000"
+"12 Angry Men","1957","9.0","738000"
+"Schindler's List","1993","8.9","1267000"
+"The Lord of the Rings: The Return of the King","2003","8.9","1650000"
+"Pulp Fiction","1994","8.9","1864000"
+"The Good, the Bad and the Ugly","1966","8.8","730000"
+"Fight Club","1999","8.8","1846000"
+"Forrest Gump","1994","8.8","1970000"
+"Inception","2010","8.8","2300000"
+"The Lord of the Rings: The Fellowship of the Ring","2001","8.8","1700000"
+"Star Wars: Episode V - The Empire Strikes Back","1980","8.7","1200000"
+"The Matrix","1999","8.7","1700000"
+"Goodfellas","1990","8.7","1100000"
